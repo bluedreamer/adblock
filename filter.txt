@@ -1,4 +1,8 @@
-! Version: 202005110647
+[Adblock Plus 2.0]
+! Version: 
+! Title: Adrians Filter List
+! Last modified: 
+! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/bluedreamer/adblock
 ! License: https://github.com/bluedreamer/adblock/blob/master/LICENSE
 !
