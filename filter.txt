@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20200511081347
+! Version: 20200511103305
 ! Title: Adrians Filter List
-! Last modified: Mon 11 May 2020 02:13:47 PM UTC
+! Last modified: Mon 11 May 2020 04:33:05 PM UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/bluedreamer/adblock
 ! License: https://github.com/bluedreamer/adblock/blob/master/LICENSE
@@ -14,3 +14,4 @@ foxnews.com,foxbusiness.com##.featured-video
 foxbusiness.com##.featured-video
 !!static.foxnews.com/static/strike/scripts/libs/google.funding.choices.js
 cnn.com##.el__leafmedia--featured-video-collection
+dell.com##.contact-drawer
