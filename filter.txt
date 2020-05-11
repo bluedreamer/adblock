@@ -1,0 +1,12 @@
+! Version: 202005110647
+! Homepage: https://github.com/bluedreamer/adblock
+! License: https://github.com/bluedreamer/adblock/blob/master/LICENSE
+!
+! Reference: https://help.eyeo.com/en/adblockplus/how-to-write-filters
+!
+! © 2020 Adrian Cornish
+!
+foxnews.com,foxbusiness.com##.featured-video
+foxbusiness.com##.featured-video
+!!static.foxnews.com/static/strike/scripts/libs/google.funding.choices.js
+cnn.com##.el__leafmedia--featured-video-collection
