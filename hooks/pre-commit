@@ -12,4 +12,5 @@ verdate=$(date +%Y%m%d%H%M%S)
 moddate=$(date -u)
 sed -i "s/^! Version:.*$/! Version: $verdate/" filter.txt
 sed -i "s/^! Last modified:.*$/! Last modified: $moddate/" filter.txt
-
+git add filter.txt
+exit 0
