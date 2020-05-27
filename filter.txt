@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20200522064259
+! Version: 20200527142006
 ! Title: Adrians Filter List
-! Last modified: Fri 22 May 2020 12:42:59 PM UTC
+! Last modified: Wed 27 May 2020 08:20:06 PM UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/bluedreamer/adblock
 ! License: https://github.com/bluedreamer/adblock/blob/master/LICENSE
@@ -30,3 +30,19 @@ nypost.com##.nypost-brightcove-player.nyp-brightcove-player
 
 ! 5/20/2020 https://www.cnn.com
 www.cnn.com###breaking-news-wrapper
+
+! 22/05/2020 https://www.9news.com
+www.9news.com##.article__lead-asset > .video
+
+! 25/05/2020 https://www.foxnews.com
+www.foxnews.com##.sticky-columns.row > .sidebar-primary.sidebar > .sticky-region > .sidebar-columns > div.sidebar-panel:nth-of-type(2) > .js-on-now.has-live-stream.promo-watch-live.promo
+||a57.foxnews.com/hp.foxnews.com/images/2020/05/320/180/3ef72006a890e24a0c6ac68835c7e120.png$image
+www.foxnews.com##.sidebar-secondary.sidebar > .sticky-region > .sidebar-columns > div.sidebar-panel:nth-of-type(3)
+www.foxnews.com##.js-promo.promo-image.promo
+www.foxnews.com##div.sidebar-panel:nth-of-type(4) > .promo-image.promo
+www.foxnews.com##.credible-hero.collection-hero-article.collection
+
+! 26/05/2020 https://www.foxnews.com
+www.foxnews.com##.has-load-more.collection-fox-nation.collection
+www.foxnews.com##p.speakable
+
